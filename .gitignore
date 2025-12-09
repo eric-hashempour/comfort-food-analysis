@@ -1,0 +1,26 @@
+# Local environment file (secrets)
+.env
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data (do not commit raw or cleaned participant data)
+data/
+*.xlsx
+*.csv
+
+# Visual Studio / VS Code settings (optional)
+.vscode/
+*.code-workspace
+
+# Python environment folders
+env/
+venv/
