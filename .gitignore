@@ -1,4 +1,4 @@
-# Local environment file (secrets)
+# Local environment file
 .env
 
 # Python caches
@@ -11,16 +11,3 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
-
-# Data (do not commit raw or cleaned participant data)
-data/
-*.xlsx
-*.csv
-
-# Visual Studio / VS Code settings (optional)
-.vscode/
-*.code-workspace
-
-# Python environment folders
-env/
-venv/
