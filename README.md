@@ -141,7 +141,6 @@ A more detailed findings section is included in the dashboard, but examples of f
 
 - Polarized distributions in subjective wellbeing, highlighting strong “all-or-none” response tendencies in life rewarding and healthy feeling measures.
 
-
 # 📌 Implications & Recommendations
 
 Based on the observed patterns, the analysis suggests several practical implications:
