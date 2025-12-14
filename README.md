@@ -141,6 +141,20 @@ A more detailed findings section is included in the dashboard, but examples of f
 
 - Polarized distributions in subjective wellbeing, highlighting strong “all-or-none” response tendencies in life rewarding and healthy feeling measures.
 
+# 📌 Implications & Recommendations
+
+Based on the observed patterns, the analysis suggests several practical implications:
+
+- Health and nutrition initiatives should be tailored by gender and self-perception accuracy, as calorie education appears more impactful for males with inaccurate weight perception than for females.
+
+- For females, wellbeing-focused messaging may be more effective than purely corrective calorie education, since moderate perception awareness gaps are associated with higher life satisfaction.
+
+- Misalignment between perceived health and calorie awareness can serve as an early signal to identify individuals who may benefit from personalized guidance rather than generic nutrition advice.
+
+- Because comfort-food preferences remain relatively stable, effective dietary strategies should emphasize moderation and healthier substitutions instead of complete elimination of preferred foods.
+
+- The polarized distribution of wellbeing responses suggests future surveys and wellness programs should use more granular scales or follow-up questions to better capture subjective health states.
+
 # 📬 Contact
 
 If you'd like feedback or suggestions, feel free to reach out through GitHub or open an issue.
